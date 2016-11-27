@@ -1,0 +1,58 @@
+article {
+	font: 14px/19px Arial;
+	text-align: justify;
+	color:#444;
+
+	h3 {
+	color: #03a7fe;
+	font: 18px Arial;
+	padding-top: 10px;
+	}
+	p {
+		padding-top:10px;
+		} 
+
+	.goals { 
+		padding-bottom: 39px;
+        font: 22px/20px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+        color: #000000;
+        border-bottom: 1px solid #00a7fb;
+ 	}  
+
+}
+
+.articl-img {
+	padding-top:15px;
+	background: url(../img/vector-smart-object) no-repeat;
+}
+
+.meta-span {
+	display:block;
+	float: right;
+	color:#eeeeee;
+}
+
+.comm {
+	display:block;
+	padding-top:18px;
+}
+
+.rate {
+	float:left;
+	padding-top:15px;
+}
+
+.early {
+	width:178px;
+	border: 3px solid #00a5ff;
+	border-radius: 20px;
+	margin: 50px 0 50px 0;
+
+	a {
+	text-decoration: none;
+	padding-left:17px;
+	font-weight:bold;
+	color: #000000;
+	line-height:30px;
+	}
+}

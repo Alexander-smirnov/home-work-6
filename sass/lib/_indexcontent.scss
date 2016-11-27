@@ -1,0 +1,74 @@
+.maincontent {
+    float: left;
+    width: 530px;
+    min-height: 903px;  
+    margin-left: 20px;
+
+     h2 {
+        padding-top: 64px;
+        font: 26px/19px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+        color: #000000;
+    }
+}
+
+.company {
+    margin-top: 40px;
+    padding-left: 140px;
+    border-top: 1px solid #00a7fb;
+    background: url(../img/layer-39.png)no-repeat;
+    background-position: 20px 22px;
+
+    h2 {    
+        padding-top: 15px;
+        padding-bottom: 14px;
+        font: 22px/20px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+        color: #03a7fe;
+    }   
+}
+
+.informer {
+    width: 393px;
+    background: #dfe5e6;
+    border-collapse:collapse;
+}
+.tb-border{
+    border-bottom: 3px solid #ffffff;
+}
+.wite-fon {
+    background: #eceff1;
+}
+.left-colum {
+    vertical-align: middle;
+    font: 12px/11px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+    color: #505050;
+    padding-left: 10px;
+}
+
+.right-colum {
+    vertical-align: middle;
+    font: 12px/11px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+    color: #000000;
+    
+}
+
+.web-link{
+    color: #03a7fe;
+    text-decoration:none;
+    
+}
+
+.ather-tb-link {
+    padding-left: 5px;
+    color: #000000;
+} 
+
+
+.right-colum a:first-child {
+    padding-left: 0;
+}
+
+td {
+    width: 196px;
+    height: 24px;
+}
+

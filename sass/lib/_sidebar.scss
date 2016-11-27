@@ -1,0 +1,106 @@
+ .sidebar-title {
+    margin-top: 20px;
+    font: 20px/19px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+    color: #03a7fe;
+    margin-bottom: 33px;
+}
+
+.sidebar li {
+    border-top: 1px solid #cbcac9;
+    line-height: 50px;
+}
+
+.sidebar li:first-child {
+    border-top: none;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #cbcac9;
+}
+
+.menu-arrow {
+    color: #03a7fe;
+    margin-right: 10px;
+}
+
+.rss-bar {
+    padding: 15px 60px;
+    border-top: 1px solid #cbcac9;
+    border-bottom: 1px solid #cbcac9;
+    margin-bottom: 30px;
+
+    .rss-btn {
+	    margin: 20px 60px;
+	    width: 102px;
+	    height: 40px;
+	    display: block;
+	    border: 3px solid #ff9600;
+	    border-radius: 25px;
+	    background: url(../img/rss.jpg) no-repeat left center;
+	    background-position: 13px 7px;
+	    cursor: pointer;
+	    color: #939598;
+	    text-transform: uppercase;
+	    font: 21px AFKlampenborg-Medium;
+	}
+
+}
+
+.partners {
+    padding-top: 30px;
+    min-height: 435px;
+    margin: 0 auto; 
+    border-top: 1px solid #cbcac9;
+}
+
+.partner-img {
+
+    display:block;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    filter: grayscale(100%);
+    filter: gray;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  -webkit-transition: all 2s;
+  -moz-transition: all 2s;
+  -o-transition: all 2s;
+  transition: all 2s;
+
+	  &:hover {
+	  -webkit-filter: none;
+	  -moz-filter: none;
+	  -ms-filter: none;
+	  -o-filter: none;
+	  filter: none;
+	  filter: none;
+	}
+}
+
+.sidebar {
+    float: left;
+    width: 230px;
+    min-height: 1114px;  
+
+    a {
+	    font: 14px/33px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+	    color:#555555;
+	} 
+}
+
+.rss-btn {
+    margin: 20px 60px;
+    width: 102px;
+    height: 40px;
+    display: block;
+    border: 3px solid #ff9600;
+    border-radius: 25px;
+    background: url(../img/rss.jpg) no-repeat left center;
+    background-position: 13px 7px;
+    cursor: pointer;
+    color: #939598;
+    text-transform: uppercase;
+    font: 21px AFKlampenborg-Medium;
+}

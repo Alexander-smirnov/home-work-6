@@ -1,0 +1,26 @@
+footer {
+    width: 776px;
+    min-height: 30px;
+    border-top: 1px solid #b5b5b7;
+
+        .footerblock {     
+            width: 503px;
+            min-height: 30px;
+            background: #d9dada url(../img/footer-img.png) no-repeat center right;
+            background-position: 460px;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+            margin-left: 250px;
+            margin-bottom: 30px;  
+
+            p {    
+            padding: 10px 13px;
+            font: 10px Gotham, Helvetica Neue, Helvetica, Arial," sans-serif";
+        }     
+        
+    }
+}
+
+.bold {
+    font-weight: bold;
+}
